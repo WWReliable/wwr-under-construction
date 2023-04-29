@@ -8,6 +8,10 @@ Customize the under-construction page content using the block editor
 Maintain your website's SEO value by sending a 302 (temporarily moved) status to search engines
 Grant access to the actual site for logged-in administrators
 
+## Requirements
+
+This plugin requires a WordPress Block Theme to function properly. Make sure you have a compatible theme installed and activated on your WordPress site before using this plugin.
+
 ## Installation
 
 Download the plugin's zip file and extract it to the wp-content/plugins directory of your WordPress installation, or use the WordPress plugin uploader to install it directly from the admin panel.
