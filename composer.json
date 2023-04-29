@@ -1,7 +1,7 @@
 {
     "name": "wwreliable/wwr-under-construction",
     "type": "wordpress-plugin",
-    "version": "1.0",
+    "version": "1.0.3",
     "description": "WWReliable Under Construction Mode",
     "require-dev": {
         "symfony/var-dumper": "6.0"
