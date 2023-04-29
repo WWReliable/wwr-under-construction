@@ -1,0 +1,41 @@
+<?php return array(
+    'root' => array(
+        'name' => 'wwreliable/wwr-wp-utils',
+        'pretty_version' => '1.0',
+        'version' => '1.0.0.0',
+        'reference' => NULL,
+        'type' => 'wordpress-muplugin',
+        'install_path' => __DIR__ . '/../../',
+        'aliases' => array(),
+        'dev' => true,
+    ),
+    'versions' => array(
+        'symfony/polyfill-mbstring' => array(
+            'pretty_version' => 'v1.27.0',
+            'version' => '1.27.0.0',
+            'reference' => '8ad114f6b39e2c98a8b0e3bd907732c207c2b534',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../symfony/polyfill-mbstring',
+            'aliases' => array(),
+            'dev_requirement' => true,
+        ),
+        'symfony/var-dumper' => array(
+            'pretty_version' => 'v6.0.0',
+            'version' => '6.0.0.0',
+            'reference' => '18d9a1737466b7d88df044b8653a13adaa7648f1',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../symfony/var-dumper',
+            'aliases' => array(),
+            'dev_requirement' => true,
+        ),
+        'wwreliable/wwr-wp-utils' => array(
+            'pretty_version' => '1.0',
+            'version' => '1.0.0.0',
+            'reference' => NULL,
+            'type' => 'wordpress-muplugin',
+            'install_path' => __DIR__ . '/../../',
+            'aliases' => array(),
+            'dev_requirement' => false,
+        ),
+    ),
+);

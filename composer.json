@@ -1,0 +1,21 @@
+{
+    "name": "wwreliable/wwr-wp-utils",
+    "type": "wordpress-muplugin",
+    "version": "1.0",
+    "description": "WWReliable WP Util lib with helpers",
+    "require-dev": {
+        "symfony/var-dumper": "6.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "WWReliable\\UnderConstruction\\": "classes/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Wim Wessels",
+            "email": "info@wimwessels.nl"
+        }
+    ],
+    "require": {}
+}
