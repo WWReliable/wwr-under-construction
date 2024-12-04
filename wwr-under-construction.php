@@ -3,7 +3,7 @@
  * Plugin Name: WWReliable WP Under Construction
  * Plugin URI:
  * Description: A WWReliable Plugin to show a Under Construction page
- * Version: 1.0.0
+ * Version: 1.0.4
  * Requires at least: 6.1
  * Requires PHP: 8.0
  * Author: Wessels Webdevelopment
